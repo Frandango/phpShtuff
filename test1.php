@@ -1,9 +1,9 @@
-<?php
+<!-- <?php
 
-function doSomething {
+//function doSomething {
 
-	1+1 =2;
+//	1+1 =2;
 	
 }
 
-doSomething();
+doSomething(); -->
