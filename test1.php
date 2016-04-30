@@ -2,8 +2,8 @@
 
 function doSomething {
 
-	$x = "So awesome!";
-	echo $x;
+	1+1 =2;
+	
 }
 
 doSomething();
